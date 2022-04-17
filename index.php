@@ -7,10 +7,6 @@ $destinationTime->setTimestamp(643625111);
 
 $diff=$presentTime->diff($destinationTime);
 
-// $diffmin= abs($presentTime - $destinationTime);
-
-
-print_r($diff);
 ?>
 
 <!DOCTYPE html>
